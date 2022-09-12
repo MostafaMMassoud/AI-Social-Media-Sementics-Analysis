@@ -1,0 +1,67 @@
+[
+  {
+    "tweet_id": 5675980,
+    "airline": "Southwest",
+    "name": "mal0877",
+    "text": "@SouthwestAir I'm an A-list Preferred customer and very loyal SWA. However, your inflight wifi is no better today than it was 4 years ago.",
+    "tweet_coord": [
+      null,
+      null
+    ],
+    "tweet_created": "17-02-15 8:47",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 5681362,
+    "airline": "Delta",
+    "name": "TumbaSherman",
+    "text": "@JetBlue yes I do. I will get you exact data. Your download is fine it's your upload bandwidth and ping that are the issue. Ping especially",
+    "tweet_coord": [
+      null,
+      null
+    ],
+    "tweet_created": "20-02-15 20:00",
+    "tweet_location": "Ft. Lauderdale",
+    "user_timezone": "Eastern Time (US & Canada)"
+  },
+  {
+    "tweet_id": 5677532,
+    "airline": "United",
+    "name": "sheldoncharron",
+    "text": ".@united: Just landed. A day Late Flight with almost no sleep, but here. I feel sorry for the woman I consoled who's mother died during the night.",
+    "tweet_coord": [
+      null,
+      null
+    ],
+    "tweet_created": "18-02-15 7:22",
+    "tweet_location": "Los Angeles & Vancouver",
+    "user_timezone": "Pacific Time (US & Canada)"
+  },
+  {
+    "tweet_id": 5690402,
+    "airline": "American",
+    "name": "LancasterPattie",
+    "text": "@AmericanAir You are jumping the gun and Cancelled Flighting flights that could've made it before the snow. Now, more Cancelled Flightlations. It's ridiculous.",
+    "tweet_coord": [
+      null,
+      null
+    ],
+    "tweet_created": "24-02-15 11:15",
+    "tweet_location": "",
+    "user_timezone": ""
+  },
+  {
+    "tweet_id": 5676480,
+    "airline": "US Airways",
+    "name": "NaomiSheltonDC",
+    "text": "@USAirways thanks. \ud83d\ude12",
+    "tweet_coord": [
+      null,
+      null
+    ],
+    "tweet_created": "17-02-15 12:50",
+    "tweet_location": "",
+    "user_timezone": "Eastern Time (US & Canada)"
+  }
+]
